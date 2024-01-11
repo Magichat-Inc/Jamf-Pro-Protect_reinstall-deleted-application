@@ -2,7 +2,7 @@
 
 ####################################################################################################
 # Reinstall a specific application and remove the device from the Jamf Protect Smart Group
-# 特定のアプリケーションが削除された場合に再インストールするスクリプト
+# 特定のアプリケーションを再インストールし、デバイスをJamf Protect Smart Groupから削除する
 #                         
 # Author: Magic Hat Inc. (Melinda Magyar)           
 # 著者: 株式会社マジックハット (マジャル メリンダ)
