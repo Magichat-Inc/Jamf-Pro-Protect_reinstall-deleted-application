@@ -29,4 +29,4 @@
 |  | Adobe Acrobat Install  | Adobe Acrobat Readerをインストールするポリシー  |  |
 
 ## ご参考
-詳しくは[ブログ]()をご覧ください。
+詳しくは[ブログ](https://blog.magichat.jp/n/ndc716c568585)をご覧ください。
