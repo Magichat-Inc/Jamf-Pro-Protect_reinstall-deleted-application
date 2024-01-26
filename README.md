@@ -11,7 +11,7 @@
 | 3 | Smart Computer Group  |   |  |
 |   | Jamf Protect - Reinstall Adobe  | 再インストールポリシー起動用  | Jamf Protect - Smart Groups  |
 | 4  | Re-installポリシー  |   |   |
-|   | Jamf Protect: Reinstall Adobe Acrobat Reader  | 特定アプリインストール用のポリシー  | Ongoing  |
+|   | Jamf Protect: Reinstall Adobe Acrobat Reader  | 特定アプリインストール用のポリシー  | Ongoing<br />カスタム：protect  | 
 |  | ┗ reinstallAppAndRemoveFromProtectGroup.sh  | トリガーファイルの削除＆インストールポリシーの実行  | インストールポリシーのID  |
 | 5 | アプリのインストール  |   |  |
 |   | Adobe Acrobat Install  | Adobe Acrobat Readerをインストールするポリシー  |  |
